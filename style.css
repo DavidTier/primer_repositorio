@@ -1,7 +1,7 @@
 
 body {
     height: 100vh;
-    background-color: rgb(36, 36, 36);
+    background-color: blue
     color: whitesmoke;
     display: grid;
     place-items: center;
